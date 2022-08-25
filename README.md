@@ -30,15 +30,20 @@ The sample eman  of all lots is very close to the  population mean of 1,500 poun
 ![Screen Shot 2022-08-24 at 10 15 13 PM](https://user-images.githubusercontent.com/103322251/186558953-6814e781-ee66-4ab5-be0b-0934d850436e.png)
 
 We see almost the same scenario for Lot 1 and lot 2. We cannot reject Null Hyphotisys because the p-valuea are significantly higher them 0.05. it's equel 1 for lot 1 and 0.61 for lot 2 with sample mean 1500 and 1500.02 accordinately. 
+
 lot_1 
+
 ![Screen Shot 2022-08-24 at 10 15 27 PM](https://user-images.githubusercontent.com/103322251/186558981-b32ea4a6-2023-4dee-8336-532b240ec797.png)
 
 lot_2 
+
 ![Screen Shot 2022-08-24 at 10 16 25 PM](https://user-images.githubusercontent.com/103322251/186559005-9d59f8a9-8d6e-42a6-982e-7a5e66cab856.png)
 
 
 P-value for lot 3 is 0.04, which is lower then 0.05. The sample mean is 1496.14.  We can reject Null Hyphotesis. The 3rd lot is the only lot with statistical difference. 
+
 lot_3 
+
 ![Screen Shot 2022-08-24 at 10 16 25 PM](https://user-images.githubusercontent.com/103322251/186559214-d375b2ba-d304-4e2e-9555-0d0eac061b31.png)
 
 
