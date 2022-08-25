@@ -55,6 +55,6 @@ Null hypothesis will be - More expencive car's meintanance is not cheaper  then 
 
 Alternative hypothesis will be - The maintanance price increase as a cost of the car increases.
 
-I'd use linear regression test. 
+I'd perform linear regression using the lm() function and  the summary() function to  determine the p-value and the r-squared value.  
 
 
