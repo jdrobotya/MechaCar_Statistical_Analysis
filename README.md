@@ -2,7 +2,7 @@
 
 ## Deliverable 1 
 
-1. According to the p-values we received for vehicle_length  and ground_clearance, they will a non-random amount of variance to the mpg values in the dataset and will have the biggest impact. 
+1. According to the p-values we received for vehicle_length  and ground_clearance, they willprovide a non-random amount of variance to the mpg values in the dataset and will have the biggest impact. 
 
 2. The slope of the linear model is not considered to be zero, since p-value is smaller then 0.05%, Null Hypothesis can be rejected. 
 
